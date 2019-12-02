@@ -16,7 +16,7 @@
     "fs-extra": "^2.0.0",
     "mongoose": "^5.7.12",
     "nodemon": "^2.0.1",
-    "request": "^2.40.0",
+    "request": "^2.47.0",
     "tar-pack": "^3.4.1"
   }
 }
